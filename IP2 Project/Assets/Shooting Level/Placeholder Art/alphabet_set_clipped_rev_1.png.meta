@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 2f9539cf3cddedb40bdddc4776c9b841
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: alphabet_set_clipped_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1317
+        width: 299
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1314
+        width: 229
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_2
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1315
+        width: 260
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1314
+        width: 260
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_4
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1319
+        width: 217
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_5
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1314
+        width: 206
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_6
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1314
+        width: 263
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 877
+        width: 245
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 877
+        width: 243
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 877
+        width: 265
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_10
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 884
+        width: 221
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_11
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 877
+        width: 222
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_12
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 877
+        width: 272
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_13
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 877
+        width: 256
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 274
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 439
+        width: 231
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 410
+        width: 255
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_17
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 441
+        width: 233
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_18
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 441
+        width: 224
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_19
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 441
+        width: 271
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_20
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 441
+        width: 251
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 305
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_22
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 7
+        width: 331
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_23
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2
+        width: 280
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 268
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: alphabet_set_clipped_rev_1_25
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 240
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
